@@ -1,1 +1,1 @@
-displays all the lines of the file /etc/ssh/sshd_config starting with a letter
+displays all the lines in the files /etc/passwd that do not contain the pattern "bin"
