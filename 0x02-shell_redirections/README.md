@@ -1,1 +1,1 @@
-creates a script that a list of words as input and prints only words that appear exactly once
+displays all users and their home directories, sorted by users
