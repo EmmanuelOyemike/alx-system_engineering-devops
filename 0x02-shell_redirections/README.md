@@ -1,1 +1,1 @@
-prints "hello, world" to standard output
+displays the last 10 lines of /etc/passwd
