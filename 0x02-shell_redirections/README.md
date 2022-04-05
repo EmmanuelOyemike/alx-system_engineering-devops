@@ -1,1 +1,1 @@
-prints "Hello, World", followed by a new line to the standard output
+creates a script that takes a list of words as input and prints onlywords that appears exactly once
