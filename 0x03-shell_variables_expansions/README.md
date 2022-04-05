@@ -1,1 +1,1 @@
-prints hello user, where user is the current linux user
+adds action to the PATH
