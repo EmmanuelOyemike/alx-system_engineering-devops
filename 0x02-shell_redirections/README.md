@@ -1,1 +1,1 @@
-creates a script that displays the newest files in the current directory
+counts the number of directories and sub-directories in the current directory
