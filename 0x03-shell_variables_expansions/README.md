@@ -1,1 +1,1 @@
-adds action to the PATH
+lists environment variables
