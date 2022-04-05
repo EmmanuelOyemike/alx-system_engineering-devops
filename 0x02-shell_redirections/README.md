@@ -1,1 +1,1 @@
-creates a script that takes a list of words as input and prints onlywords that appears exactly once
+creates a script that displays the newest files in the current directory
